@@ -2,4 +2,4 @@
 High-Level Digital Design Automation Course - ECE 6775 - [Link](https://www.csl.cornell.edu/courses/ece6775/)
 
 
-* Note: complet week 2
+* Note: week 3, Read Analysis of Algorithms
